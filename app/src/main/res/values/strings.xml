@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AgroPlants</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="dontHaveAccount">¿No tienes cuenta?,</string>
+    <string name="createHere">crea una aquí</string>
+    <string name="email">Correo electronico</string>
+    <string name="name">Nombre</string>
+    <string name="user">Usuario</string>
+    <string name="str_tier_password">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="str_btn_createaccount">Crear cuenta</string>
+    <string name="str_tb_tittle">OrganicPlants</string>
+
+    <string name="username_card">ORGANIC PLANTS</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Inicio</string>
+    <string name="tab_profile">Perfil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_title_toolbar_Container">AgroPlants</string>
+
+    <string name="seattle">Seattle</string>
+    <string name="dublin">Dublin</string>
+    <string name="tokyo">Tokyo</string>
+
+    <string name="txt_field_vaccant">Espacios Vacíos</string>
+    <string name="txt_no_validation_login">Usuario y Contraseña Incorrectos</string>
+    <string name="txt_password_validation">Contraseña diferente</string>
+    <string name="txt_succesfully_account">Cuenta Creada Exitosamente</string>
+    <string name="txt_sign_off">Cerrando Sesión</string>
+    <string name="btn_fragment_profile_sign_off">Cerrar Sesión</string>
+    <string name="txt_validation_login">Bienvenido a la App</string>
+
+
+</resources>
